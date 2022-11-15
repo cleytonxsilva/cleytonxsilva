@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @cleytonxsilva
 - 👀 Interested in learn to program
-- 🌱 I’m currently learning C language in the Code::Blocks IDE, I study software engineering
+- 🌱 I’m currently learning C, HTML and CSS... I study software engineering
 - 💞️ I’m looking to collaborate on projects, internships
 - 📫 I live in Foz do Iguaçu, PR - Brazil
 
